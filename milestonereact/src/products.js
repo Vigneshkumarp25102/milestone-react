@@ -29,6 +29,7 @@ export function Product(){
                     <th>Product rating </th>
                     <th>Product category</th>
                     <th>Product count</th>
+                    <th>Product count</th>
                 </tr>
                 </thead>
                 <tbody>
